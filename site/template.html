@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Swadeshi Tracker — who owns the shelf?</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+:root {
+  --paper: #F3F4EF; --card: #FFFFFF; --ink: #16181D; --faint: #6B7078;
+  --line: #D9DBD2; --indian: #1B2A6B; --foreign: #E8A020; --error: #A33B2E; --badge: #2E6B3F;
+}
+* { box-sizing: border-box; margin: 0; }
+body {
+  min-height: 100vh; background: var(--paper); color: var(--ink);
+  font-family: 'IBM Plex Sans','Segoe UI',system-ui,-apple-system,sans-serif;
+  padding: 0 20px 80px;
+}
+.wrap { max-width: 640px; margin: 0 auto; padding-top: 56px; }
+.mono { font-family: 'IBM Plex Mono',monospace; }
+.eyebrow { font-family: 'IBM Plex Mono',monospace; font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--faint); margin-bottom: 10px; }
+h1 { font-family: 'Fraunces',Georgia,serif; font-weight: 700; font-size: clamp(30px, 6vw, 44px); line-height: 1.08; margin-bottom: 10px; }
+.sub { color: var(--faint); font-size: 15px; margin-bottom: 28px; max-width: 480px; }
+.row { display: flex; gap: 10px; margin-bottom: 12px; }
+input[type=search] {
+  flex: 1; padding: 14px 16px; font-size: 16px; border: 1.5px solid var(--ink);
+  border-radius: 6px; background: var(--card); color: var(--ink); font-family: inherit;
+  -webkit-appearance: none; appearance: none;
+}
+input[type=search]:focus { outline: 2px solid var(--indian); outline-offset: 2px; }
+button:focus-visible { outline: 2px solid var(--indian); outline-offset: 2px; }
+.go {
+  padding: 14px 22px; font-size: 15px; font-weight: 600; border: none; border-radius: 6px;
+  background: var(--ink); color: #fff; cursor: pointer; font-family: inherit;
+}
+.meta { font-family: 'IBM Plex Mono',monospace; font-size: 12px; color: var(--faint); margin-bottom: 36px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 28px 28px 24px; }
+.badge {
+  font-family: 'IBM Plex Mono',monospace; font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--badge); border: 1px solid var(--badge); border-radius: 4px; padding: 3px 8px; display: inline-block;
+}
+.badge.stale { color: var(--foreign); border-color: var(--foreign); }
+.chain { font-family: 'IBM Plex Mono',monospace; font-size: 12.5px; color: var(--faint); margin: 12px 0 6px; line-height: 1.7; }
+.chain strong { color: var(--ink); font-weight: 500; }
+h2 { font-family: 'Fraunces',Georgia,serif; font-size: 26px; margin: 0 0 22px; }
+.split { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+.big { font-family: 'Fraunces',Georgia,serif; font-size: 40px; font-weight: 700; line-height: 1; }
+.big.in { color: var(--indian); } .big.fo { color: var(--foreign); }
+.lbl { font-size: 13px; color: var(--faint); margin-top: 4px; }
+.bar { display: flex; height: 22px; border-radius: 4px; overflow: hidden; border: 1px solid var(--ink); margin-bottom: 26px; }
+.bar .in { background: var(--indian); } .bar .fo { background: var(--foreign); }
+.conf { font-size: 12.5px; color: var(--faint); margin-bottom: 22px; }
+.conf strong { color: var(--ink); }
+.bhead { font-family: 'IBM Plex Mono',monospace; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--faint); margin-bottom: 10px; }
+.brow { display: flex; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+.dot { display: inline-block; width: 9px; height: 9px; border-radius: 2px; margin-right: 9px; }
+.dot.in { background: var(--indian); } .dot.fo { background: var(--foreign); }
+.bpct { font-family: 'IBM Plex Mono',monospace; }
+.note { font-size: 13.5px; color: var(--faint); line-height: 1.6; margin-top: 18px; }
+.lowbox, .overridebox { margin-top: 12px; padding: 10px 14px; background: var(--paper); border-radius: 6px; font-size: 13px; color: var(--faint); }
+.miss { background: var(--card); border-left: 4px solid var(--error); border: 1px solid var(--line); border-radius: 8px; padding: 18px 20px; font-size: 14px; }
+.miss strong { color: var(--error); }
+.sugg { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px; }
+.sugg button {
+  font-family: 'IBM Plex Mono',monospace; font-size: 12.5px; background: none; border: 1px solid var(--line);
+  border-radius: 4px; padding: 5px 11px; color: var(--ink); cursor: pointer;
+}
+.sugg button:hover { border-color: var(--ink); }
+.about { margin-top: 56px; font-size: 12.5px; color: var(--faint); line-height: 1.7; border-top: 1px solid var(--line); padding-top: 18px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="eyebrow">Ownership registry · Indian market</div>
+  <h1>Who owns the shelf?</h1>
+  <p class="sub">Type any product sold in India. Every answer comes instantly from a
+    registry rebuilt weekly from NSE shareholding filings and public records — no AI, no waiting.</p>
+
+  <div class="row">
+    <input type="search" id="q" placeholder="e.g. Wheel, Cinthol, Timex, Parle, Maggi" aria-label="Product name" autocomplete="off">
+    <button class="go" id="go">Trace it</button>
+  </div>
+  <div class="meta" id="meta"></div>
+  <div id="out"></div>
+
+  <div class="about">
+    <strong>About the data.</strong> For companies listed on NSE/BSE, the Indian‑vs‑foreign split is
+    computed from the latest quarterly shareholding pattern the company filed with the exchange:
+    foreign promoters, FII/FPI and other foreign institutions count as foreign; Indian promoters,
+    DII, government and resident public count as Indian (NRIs are counted on the Indian side).
+    Private companies use curated public records. The registry is rebuilt weekly; ownership can
+    change between filings. This is general information, not investment advice.
+  </div>
+</div>
+
+<script>
+const REGISTRY = __REGISTRY_JSON__;
+
+const CONFIDENCE_HI = { high: "उच्च", medium: "मध्यम", low: "निम्न" };
+const norm = s => (s || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+// alias index
+const aliasIndex = new Map();
+REGISTRY.brands.forEach((b, i) => {
+  [...b.aliases, b.brand, b.product].forEach(a => {
+    const k = norm(a);
+    if (k && !aliasIndex.has(k)) aliasIndex.set(k, i);
+  });
+});
+
+function editDistance(a, b) {
+  if (Math.abs(a.length - b.length) > 3) return 99;
+  const dp = Array.from({ length: a.length + 1 }, (_, i) => [i, ...Array(b.length).fill(0)]);
+  for (let j = 1; j <= b.length; j++) dp[0][j] = j;
+  for (let i = 1; i <= a.length; i++)
+    for (let j = 1; j <= b.length; j++)
+      dp[i][j] = Math.min(dp[i-1][j] + 1, dp[i][j-1] + 1, dp[i-1][j-1] + (a[i-1] === b[j-1] ? 0 : 1));
+  return dp[a.length][b.length];
+}
+
+function findBrand(query) {
+  const k = norm(query);
+  if (!k) return { hit: null, suggestions: [] };
+  if (aliasIndex.has(k)) return { hit: REGISTRY.brands[aliasIndex.get(k)], suggestions: [] };
+
+  // substring / prefix over aliases
+  for (const [alias, i] of aliasIndex) {
+    if (alias.startsWith(k) || (k.length >= 4 && alias.includes(k))) {
+      return { hit: REGISTRY.brands[i], suggestions: [] };
+    }
+  }
+  // token match: any query word matching any alias word
+  const qWords = (query || "").toLowerCase().split(/[^a-z0-9]+/).filter(w => w.length >= 3);
+  for (const b of REGISTRY.brands) {
+    const hay = (b.aliases.join(" ") + " " + b.brand + " " + b.product).toLowerCase();
+    if (qWords.length && qWords.every(w => hay.includes(w))) return { hit: b, suggestions: [] };
+  }
+  // fuzzy suggestions by edit distance
+  const scored = [];
+  for (const [alias, i] of aliasIndex) {
+    const d = editDistance(k, alias);
+    if (d <= 2) scored.push({ d, i });
+  }
+  scored.sort((x, y) => x.d - y.d);
+  const seen = new Set(), suggestions = [];
+  for (const s of scored) {
+    const b = REGISTRY.brands[s.i];
+    if (!seen.has(b.brand)) { seen.add(b.brand); suggestions.push(b); }
+    if (suggestions.length >= 4) break;
+  }
+  if (suggestions.length === 1) return { hit: suggestions[0], suggestions: [] };
+  return { hit: null, suggestions };
+}
+
+function renderResult(b) {
+  const indian = b.indian_pct, foreign = b.foreign_pct;
+  const badge = b.stale
+    ? '<span class="badge stale">⚠ from an older filing — latest fetch failed</span>'
+    : '<span class="badge">⚡ instant · weekly registry</span>';
+  const rows = (b.breakdown || []).map(r => `
+    <div class="brow"><span><span class="dot ${r.origin === "indian" ? "in" : "fo"}" aria-hidden="true"></span>${esc(r.holder)}</span>
+    <span class="bpct">${r.pct}%</span></div>`).join("");
+  const sources = (b.sources || []).slice(0, 3).join(" · ");
+  return `
+  <div class="card">
+    ${badge}
+    <div class="chain">${esc(b.product)} → ${esc(b.brand)} → ${esc(b.operating_company)} →
+      <strong>${esc(b.parent_company)} (${esc(b.parent_country)})</strong></div>
+    <h2>${esc(b.operating_company)}</h2>
+    <div class="split">
+      <div><div class="big in">${indian}%</div><div class="lbl">स्वदेशी स्वामित्व</div></div>
+      <div style="text-align:right"><div class="big fo">${foreign}%</div><div class="lbl">विदेशी स्वामित्व</div></div>
+    </div>
+    <div class="bar" role="img" aria-label="Ownership split: ${indian} percent Indian, ${foreign} percent foreign">
+      <div class="in" style="width:${indian}%"></div><div class="fo" style="width:${foreign}%"></div>
+    </div>
+    <div class="conf">विश्वसनीयता: <strong>${CONFIDENCE_HI[b.confidence] || esc(b.confidence)}</strong>${sources ? " · Sources: " + esc(sources) : ""}</div>
+    <div class="bhead">Holder breakdown${b.as_of ? " · as of " + esc(b.as_of) : ""}</div>
+    ${rows}
+    <p class="note">${esc(b.listing_note)} ${esc(b.company_notes)} ${esc(b.notes)}</p>
+    ${b.override_note ? `<div class="overridebox">${esc(b.override_note)}</div>` : ""}
+    ${b.confidence === "low" ? `<div class="lowbox">Verified filing data isn't available for this one — the split shown is a curated best estimate.</div>` : ""}
+  </div>`;
+}
+
+function renderMiss(query, suggestions) {
+  const chips = suggestions.map(s =>
+    `<button data-q="${esc(s.brand)}">${esc(s.brand)}</button>`).join("");
+  return `
+  <div class="miss">
+    <strong>Not in the registry yet. </strong>"${esc(query)}" didn't match any of the
+    ${REGISTRY.brands.length} products tracked here.
+    ${suggestions.length ? `<div class="sugg">Did you mean: ${chips}</div>` : ""}
+  </div>`;
+}
+
+const $q = document.getElementById("q");
+const $out = document.getElementById("out");
+const $meta = document.getElementById("meta");
+
+const gen = new Date(REGISTRY.generated_at);
+$meta.textContent = `${REGISTRY.brands.length} products in the registry · rebuilt weekly from NSE filings · last refreshed ${gen.toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" })}`;
+
+function run(q) {
+  const query = (q ?? $q.value).trim();
+  if (!query) return;
+  if (q != null) $q.value = q;
+  const { hit, suggestions } = findBrand(query);
+  $out.innerHTML = hit ? renderResult(hit) : renderMiss(query, suggestions);
+  const params = new URLSearchParams(location.search);
+  params.set("q", query);
+  history.replaceState(null, "", "?" + params.toString());
+}
+
+document.getElementById("go").addEventListener("click", () => run());
+$q.addEventListener("keydown", e => { if (e.key === "Enter") run(); });
+$out.addEventListener("click", e => {
+  const b = e.target.closest("button[data-q]");
+  if (b) run(b.dataset.q);
+});
+
+const initial = new URLSearchParams(location.search).get("q");
+if (initial) run(initial);
+</script>
+</body>
+</html>

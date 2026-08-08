@@ -1,0 +1,49 @@
+name: Weekly registry refresh & deploy
+
+on:
+  schedule:
+    # Every Sunday 03:00 UTC (08:30 IST) — quarterly filings land within days
+    # of quarter-end, so a weekly sweep picks them up promptly.
+    - cron: "0 3 * * 0"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh registry from NSE filings
+        # NSE occasionally blocks datacenter IPs. refresh.py falls back to the
+        # committed registry per company (marked stale) when a fetch fails, and
+        # exits non-zero only if a company has no fallback at all — so a
+        # blocked run still deploys last-known-good data.
+        run: python3 scripts/refresh.py
+        continue-on-error: true
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "registry-refresh-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add site/registry.json site/index.html
+          git diff --cached --quiet || git commit -m "Weekly registry refresh"
+          git push
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
