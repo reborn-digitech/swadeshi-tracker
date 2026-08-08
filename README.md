@@ -7,7 +7,7 @@ rebuilt weekly from NSE quarterly shareholding filings and curated public record
 ## How it works
 
 ```
-data/companies.json        curated: ~55 listed + ~39 private companies, 260+ brand aliases
+data/companies.json        curated: ~270 companies (133 NSE-listed + ~135 private), 470+ brand entries
         │
 scripts/refresh.py         weekly: pulls each listed company's latest quarterly
         │                  shareholding XBRL from NSE, classifies every holder
