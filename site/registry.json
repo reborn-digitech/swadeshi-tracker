@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T03:08:04Z",
+ "generated_at": "2026-09-13T03:07:53Z",
  "note": "Listed-company splits come from NSE quarterly shareholding filings; private companies are curated from public records. NRIs are counted on the Indian side.",
  "companies": [
   {
@@ -4808,34 +4808,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (CELLO). Cello's pen business was sold separately to BIC (France); this covers houseware.",
    "company_notes": "",
-   "indian_pct": 96.3,
-   "foreign_pct": 3.7,
+   "indian_pct": 97.3,
+   "foreign_pct": 2.7,
    "breakdown": [
     {
      "holder": "Rathod family promoters",
-     "pct": 75.0,
+     "pct": 73.5,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 3.7,
+     "pct": 2.7,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 15.2,
+     "pct": 14.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 6.1,
+     "pct": 9.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 03-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 03-Sep-2026)"
    ]
   },
   {
@@ -21350,34 +21350,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (CELLO). Cello's pen business was sold separately to BIC (France); this covers houseware.",
    "company_notes": "",
-   "indian_pct": 96.3,
-   "foreign_pct": 3.7,
+   "indian_pct": 97.3,
+   "foreign_pct": 2.7,
    "breakdown": [
     {
      "holder": "Rathod family promoters",
-     "pct": 75.0,
+     "pct": 73.5,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 3.7,
+     "pct": 2.7,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 15.2,
+     "pct": 14.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 6.1,
+     "pct": 9.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 03-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 03-Sep-2026)"
    ]
   },
   {
