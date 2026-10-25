@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T07:38:57Z",
+ "generated_at": "2026-10-25T07:59:52Z",
  "note": "Listed-company splits come from NSE quarterly shareholding filings; private companies are curated from public records. NRIs are counted on the Indian side.",
  "companies": [
   {
@@ -10,8 +10,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -20,24 +20,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -86,8 +86,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BRITANNIA).",
    "company_notes": "",
-   "indian_pct": 86.6,
-   "foreign_pct": 13.4,
+   "indian_pct": 87.1,
+   "foreign_pct": 12.9,
    "breakdown": [
     {
      "holder": "Wadia Group promoters (via UK entity)",
@@ -96,24 +96,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.4,
+     "pct": 12.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.9,
+     "pct": 21.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.1,
+     "pct": 15.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ],
    "override_note": "The promoter stake is held through UK-incorporated Associated Biscuits International but is controlled by the Indian Wadia group, so it is counted as Indian here. The exchange filing itself tags it as foreign."
   },
@@ -201,34 +201,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (MARICO).",
    "company_notes": "",
-   "indian_pct": 76.6,
-   "foreign_pct": 23.4,
+   "indian_pct": 77.7,
+   "foreign_pct": 22.3,
    "breakdown": [
     {
      "holder": "Mariwala family promoters",
-     "pct": 58.9,
+     "pct": 58.8,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 23.4,
+     "pct": 22.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 13.0,
+     "pct": 14.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 4.7,
+     "pct": 4.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -239,8 +239,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (GODREJCP).",
    "company_notes": "",
-   "indian_pct": 87.5,
-   "foreign_pct": 12.5,
+   "indian_pct": 88.8,
+   "foreign_pct": 11.2,
    "breakdown": [
     {
      "holder": "Godrej family promoters",
@@ -254,24 +254,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.3,
+     "pct": 11.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 19.6,
+     "pct": 20.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.0,
+     "pct": 15.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -363,8 +363,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (GILLETTE).",
    "company_notes": "",
-   "indian_pct": 54.3,
-   "foreign_pct": 45.7,
+   "indian_pct": 54.6,
+   "foreign_pct": 45.4,
    "breakdown": [
     {
      "holder": "Indian promoters",
@@ -378,7 +378,7 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 5.6,
+     "pct": 5.3,
      "origin": "foreign"
     },
     {
@@ -388,14 +388,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.6,
+     "pct": 10.9,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -487,8 +487,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (TATACONSUM).",
    "company_notes": "",
-   "indian_pct": 79.2,
-   "foreign_pct": 20.8,
+   "indian_pct": 79.5,
+   "foreign_pct": 20.5,
    "breakdown": [
     {
      "holder": "Tata group promoters",
@@ -497,12 +497,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.8,
+     "pct": 20.5,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.0,
+     "pct": 25.3,
      "origin": "indian"
     },
     {
@@ -511,10 +511,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -720,8 +720,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ASIANPAINT).",
    "company_notes": "",
-   "indian_pct": 86.2,
-   "foreign_pct": 13.8,
+   "indian_pct": 85.7,
+   "foreign_pct": 14.3,
    "breakdown": [
     {
      "holder": "Founding-family promoters",
@@ -735,24 +735,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.3,
+     "pct": 13.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.8,
+     "pct": 20.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 13.3,
+     "pct": 13.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -801,8 +801,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BATAINDIA).",
    "company_notes": "",
-   "indian_pct": 43.5,
-   "foreign_pct": 56.5,
+   "indian_pct": 44.1,
+   "foreign_pct": 55.9,
    "breakdown": [
     {
      "holder": "Bata (BN) B.V. (promoter)",
@@ -811,24 +811,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 6.4,
+     "pct": 5.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 27.2,
+     "pct": 26.2,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 16.2,
+     "pct": 17.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -839,8 +839,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RELAXO).",
    "company_notes": "",
-   "indian_pct": 96.9,
-   "foreign_pct": 3.1,
+   "indian_pct": 97.0,
+   "foreign_pct": 3.0,
    "breakdown": [
     {
      "holder": "Dua family promoters",
@@ -849,24 +849,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 3.1,
+     "pct": 3.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 9.7,
+     "pct": 9.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.9,
+     "pct": 16.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -986,34 +986,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (MARUTI).",
    "company_notes": "",
-   "indian_pct": 28.5,
-   "foreign_pct": 71.5,
+   "indian_pct": 28.9,
+   "foreign_pct": 71.1,
    "breakdown": [
     {
      "holder": "Suzuki Motor Corp (promoter)",
-     "pct": 58.6,
+     "pct": 58.7,
      "origin": "foreign"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.8,
+     "pct": 12.4,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.2,
+     "pct": 25.4,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 3.4,
+     "pct": 3.5,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -1024,8 +1024,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (TMPV) after the 2025 demerger; the commercial-vehicle arm (TMCV) is also Tata-promoted.",
    "company_notes": "",
-   "indian_pct": 82.8,
-   "foreign_pct": 17.2,
+   "indian_pct": 84.6,
+   "foreign_pct": 15.4,
    "breakdown": [
     {
      "holder": "Tata group promoters",
@@ -1034,12 +1034,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.2,
+     "pct": 15.4,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.2,
+     "pct": 17.9,
      "origin": "indian"
     },
     {
@@ -1049,14 +1049,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 23.0,
+     "pct": 24.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -1115,8 +1115,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HEROMOTOCO).",
    "company_notes": "",
-   "indian_pct": 68.9,
-   "foreign_pct": 31.1,
+   "indian_pct": 67.8,
+   "foreign_pct": 32.2,
    "breakdown": [
     {
      "holder": "Munjal family promoters",
@@ -1125,24 +1125,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 31.1,
+     "pct": 32.2,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 24.4,
+     "pct": 23.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 9.8,
+     "pct": 9.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -1277,39 +1277,39 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (MRF).",
    "company_notes": "",
-   "indian_pct": 81.4,
-   "foreign_pct": 18.6,
+   "indian_pct": 81.8,
+   "foreign_pct": 18.2,
    "breakdown": [
     {
      "holder": "Mammen family promoters",
-     "pct": 26.6,
+     "pct": 26.5,
      "origin": "indian"
     },
     {
      "holder": "Mammen family (promoter)",
-     "pct": 1.2,
+     "pct": 1.1,
      "origin": "foreign"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.4,
+     "pct": 17.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 12.1,
+     "pct": 12.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 42.7,
+     "pct": 42.6,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -1373,19 +1373,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 39.1,
+     "pct": 38.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 13.7,
+     "pct": 14.3,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -1439,8 +1439,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (WHIRLPOOL). Whirlpool Corp has been trimming its stake in recent years.",
    "company_notes": "",
-   "indian_pct": 47.8,
-   "foreign_pct": 52.2,
+   "indian_pct": 47.7,
+   "foreign_pct": 52.3,
    "breakdown": [
     {
      "holder": "Whirlpool Corp (promoter)",
@@ -1454,19 +1454,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 34.2,
+     "pct": 32.4,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 13.5,
+     "pct": 15.3,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -1553,8 +1553,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BAJAJELEC).",
    "company_notes": "",
-   "indian_pct": 94.5,
-   "foreign_pct": 5.5,
+   "indian_pct": 94.6,
+   "foreign_pct": 5.4,
    "breakdown": [
     {
      "holder": "Bajaj family promoters",
@@ -1573,19 +1573,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 16.8,
+     "pct": 16.0,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.1,
+     "pct": 15.9,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -1596,29 +1596,29 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (CROMPTON); no promoter, largely institution-owned.",
    "company_notes": "",
-   "indian_pct": 80.1,
-   "foreign_pct": 19.9,
+   "indian_pct": 80.8,
+   "foreign_pct": 19.2,
    "breakdown": [
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 19.9,
+     "pct": 19.2,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 66.5,
+     "pct": 65.8,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 13.6,
+     "pct": 15.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -1900,8 +1900,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (PAGEIND); exclusive Indian licensee of Jockey (USA).",
    "company_notes": "",
-   "indian_pct": 38.2,
-   "foreign_pct": 61.8,
+   "indian_pct": 38.3,
+   "foreign_pct": 61.7,
    "breakdown": [
     {
      "holder": "Genomal family (promoter)",
@@ -1910,24 +1910,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 18.9,
+     "pct": 18.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 33.6,
+     "pct": 32.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 4.6,
+     "pct": 5.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -2087,19 +2087,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 34.6,
+     "pct": 34.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 16.0,
+     "pct": 15.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -2224,8 +2224,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HONASA).",
    "company_notes": "",
-   "indian_pct": 67.2,
-   "foreign_pct": 32.8,
+   "indian_pct": 70.3,
+   "foreign_pct": 29.7,
    "breakdown": [
     {
      "holder": "Alagh family promoters",
@@ -2234,24 +2234,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 32.8,
+     "pct": 29.7,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 21.6,
+     "pct": 23.4,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.1,
+     "pct": 11.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -3111,22 +3111,22 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RELIANCE).",
    "company_notes": "",
-   "indian_pct": 82.8,
-   "foreign_pct": 17.2,
+   "indian_pct": 83.3,
+   "foreign_pct": 16.7,
    "breakdown": [
     {
      "holder": "Ambani family promoters",
-     "pct": 50.5,
+     "pct": 50.4,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.2,
+     "pct": 16.7,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 21.2,
+     "pct": 21.7,
      "origin": "indian"
     },
     {
@@ -3136,14 +3136,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.0,
+     "pct": 11.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -3154,8 +3154,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BHARTIARTL); Singapore's Singtel holds a large chunk inside the promoter group, which the filing tags as foreign.",
    "company_notes": "",
-   "indian_pct": 62.9,
-   "foreign_pct": 37.1,
+   "indian_pct": 64.0,
+   "foreign_pct": 36.0,
    "breakdown": [
     {
      "holder": "Indian promoters",
@@ -3169,24 +3169,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 26.5,
+     "pct": 25.5,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.8,
+     "pct": 21.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 2.6,
+     "pct": 2.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -3197,8 +3197,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (IDEA). After dues-to-equity conversion the Government of India is the single largest shareholder.",
    "company_notes": "",
-   "indian_pct": 74.8,
-   "foreign_pct": 25.2,
+   "indian_pct": 75.2,
+   "foreign_pct": 24.8,
    "breakdown": [
     {
      "holder": "Indian promoters",
@@ -3212,12 +3212,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 6.2,
+     "pct": 5.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 6.1,
+     "pct": 6.6,
      "origin": "indian"
     },
     {
@@ -3227,14 +3227,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 13.1,
+     "pct": 13.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -3245,8 +3245,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (DMART).",
    "company_notes": "",
-   "indian_pct": 90.8,
-   "foreign_pct": 9.2,
+   "indian_pct": 91.5,
+   "foreign_pct": 8.5,
    "breakdown": [
     {
      "holder": "Damani family promoters",
@@ -3255,12 +3255,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.2,
+     "pct": 8.5,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 8.7,
+     "pct": 9.4,
      "origin": "indian"
     },
     {
@@ -3269,10 +3269,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -3321,8 +3321,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (NYKAA).",
    "company_notes": "",
-   "indian_pct": 86.2,
-   "foreign_pct": 13.8,
+   "indian_pct": 84.4,
+   "foreign_pct": 15.6,
    "breakdown": [
     {
      "holder": "Nayar family promoters",
@@ -3331,24 +3331,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.8,
+     "pct": 15.6,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 24.1,
+     "pct": 22.4,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.0,
+     "pct": 9.9,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -3501,8 +3501,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (DEVYANI).",
    "company_notes": "",
-   "indian_pct": 90.2,
-   "foreign_pct": 9.8,
+   "indian_pct": 90.9,
+   "foreign_pct": 9.1,
    "breakdown": [
     {
      "holder": "Jaipuria family promoters",
@@ -3511,24 +3511,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.8,
+     "pct": 9.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 18.8,
+     "pct": 20.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.0,
+     "pct": 8.6,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -3615,8 +3615,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BECTORFOOD).",
    "company_notes": "",
-   "indian_pct": 91.9,
-   "foreign_pct": 8.1,
+   "indian_pct": 94.0,
+   "foreign_pct": 6.0,
    "breakdown": [
     {
      "holder": "Bector family promoters",
@@ -3625,24 +3625,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 8.1,
+     "pct": 6.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 26.0,
+     "pct": 25.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 16.9,
+     "pct": 19.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -3881,8 +3881,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ASHOKLEY). Hinduja promoter entities are UK-based but the group is Indian-origin; the filing's own tagging is used here.",
    "company_notes": "",
-   "indian_pct": 27.8,
-   "foreign_pct": 72.2,
+   "indian_pct": 28.6,
+   "foreign_pct": 71.4,
    "breakdown": [
     {
      "holder": "Hinduja Group (promoter)",
@@ -3891,12 +3891,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.7,
+     "pct": 19.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 15.8,
+     "pct": 16.6,
      "origin": "indian"
     },
     {
@@ -3910,10 +3910,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -3939,19 +3939,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 12.2,
+     "pct": 11.8,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 37.0,
+     "pct": 37.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -4038,8 +4038,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (APOLLOTYRE).",
    "company_notes": "",
-   "indian_pct": 79.6,
-   "foreign_pct": 20.4,
+   "indian_pct": 83.8,
+   "foreign_pct": 16.2,
    "breakdown": [
     {
      "holder": "Kanwar family promoters",
@@ -4053,12 +4053,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.0,
+     "pct": 15.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 29.0,
+     "pct": 33.3,
      "origin": "indian"
     },
     {
@@ -4068,14 +4068,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 12.5,
+     "pct": 12.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -4086,8 +4086,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (JKTYRE).",
    "company_notes": "",
-   "indian_pct": 81.9,
-   "foreign_pct": 18.1,
+   "indian_pct": 83.0,
+   "foreign_pct": 17.0,
    "breakdown": [
     {
      "holder": "Singhania family promoters",
@@ -4101,24 +4101,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 15.8,
+     "pct": 14.6,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 7.3,
+     "pct": 8.3,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 25.2,
+     "pct": 25.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -4281,7 +4281,7 @@
    "breakdown": [
     {
      "holder": "Jalan family promoters",
-     "pct": 53.9,
+     "pct": 53.8,
      "origin": "indian"
     },
     {
@@ -4291,19 +4291,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.2,
+     "pct": 24.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.2,
+     "pct": 15.6,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -4428,8 +4428,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ASTRAL).",
    "company_notes": "",
-   "indian_pct": 86.1,
-   "foreign_pct": 13.9,
+   "indian_pct": 88.9,
+   "foreign_pct": 11.1,
    "breakdown": [
     {
      "holder": "Engineer family promoters",
@@ -4438,12 +4438,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.9,
+     "pct": 11.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 21.3,
+     "pct": 24.1,
      "origin": "indian"
     },
     {
@@ -4452,10 +4452,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -4466,8 +4466,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (SUPREMEIND).",
    "company_notes": "",
-   "indian_pct": 82.9,
-   "foreign_pct": 17.1,
+   "indian_pct": 83.4,
+   "foreign_pct": 16.6,
    "breakdown": [
     {
      "holder": "Taparia family promoters",
@@ -4476,24 +4476,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.1,
+     "pct": 16.6,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 19.1,
+     "pct": 19.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 14.8,
+     "pct": 14.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -4580,34 +4580,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (POLYCAB).",
    "company_notes": "",
-   "indian_pct": 81.0,
-   "foreign_pct": 19.0,
+   "indian_pct": 81.9,
+   "foreign_pct": 18.1,
    "breakdown": [
     {
      "holder": "Jaisinghani family promoters",
-     "pct": 61.5,
+     "pct": 61.4,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 19.0,
+     "pct": 18.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 7.6,
+     "pct": 7.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.9,
+     "pct": 12.6,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -5051,8 +5051,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ABLBL) after the 2025 ABFRL demerger.",
    "company_notes": "",
-   "indian_pct": 87.3,
-   "foreign_pct": 12.7,
+   "indian_pct": 87.7,
+   "foreign_pct": 12.3,
    "breakdown": [
     {
      "holder": "Birla group promoters",
@@ -5061,24 +5061,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.7,
+     "pct": 12.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.8,
+     "pct": 21.0,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 19.9,
+     "pct": 20.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -5127,8 +5127,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RAYMONDLSL) after the 2024 demerger.",
    "company_notes": "",
-   "indian_pct": 92.7,
-   "foreign_pct": 7.3,
+   "indian_pct": 93.0,
+   "foreign_pct": 7.0,
    "breakdown": [
     {
      "holder": "Singhania family promoters",
@@ -5137,24 +5137,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 7.3,
+     "pct": 7.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 5.7,
+     "pct": 4.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 27.4,
+     "pct": 28.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -5317,8 +5317,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (CAMPUS).",
    "company_notes": "",
-   "indian_pct": 94.0,
-   "foreign_pct": 6.0,
+   "indian_pct": 94.2,
+   "foreign_pct": 5.8,
    "breakdown": [
     {
      "holder": "Aggarwal family promoters",
@@ -5327,24 +5327,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 6.0,
+     "pct": 5.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 11.4,
+     "pct": 10.8,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.5,
+     "pct": 11.3,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -5550,8 +5550,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (INDIGO).",
    "company_notes": "",
-   "indian_pct": 73.8,
-   "foreign_pct": 26.2,
+   "indian_pct": 74.3,
+   "foreign_pct": 25.7,
    "breakdown": [
     {
      "holder": "InterGlobe promoters",
@@ -5565,24 +5565,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.3,
+     "pct": 19.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 31.9,
+     "pct": 33.3,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 6.2,
+     "pct": 5.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -5755,8 +5755,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDPETRO); state-controlled via ONGC.",
    "company_notes": "",
-   "indian_pct": 86.4,
-   "foreign_pct": 13.6,
+   "indian_pct": 86.9,
+   "foreign_pct": 13.1,
    "breakdown": [
     {
      "holder": "ONGC (state promoter)",
@@ -5765,24 +5765,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.6,
+     "pct": 13.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 22.8,
+     "pct": 22.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 8.7,
+     "pct": 9.9,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -5912,8 +5912,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (DOMS); Italy's FILA is the largest promoter alongside the Indian founders.",
    "company_notes": "",
-   "indian_pct": 73.5,
-   "foreign_pct": 26.5,
+   "indian_pct": 73.7,
+   "foreign_pct": 26.3,
    "breakdown": [
     {
      "holder": "Indian promoters",
@@ -5927,24 +5927,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 7.5,
+     "pct": 7.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.9,
+     "pct": 26.3,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 3.2,
+     "pct": 3.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -5979,10 +5979,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8481,8 +8481,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8491,24 +8491,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8526,8 +8526,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8536,24 +8536,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8571,8 +8571,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8581,24 +8581,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8617,8 +8617,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8627,24 +8627,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8662,8 +8662,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8672,24 +8672,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8707,8 +8707,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8717,24 +8717,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8753,8 +8753,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8763,24 +8763,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8798,8 +8798,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8808,24 +8808,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8843,8 +8843,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8853,24 +8853,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8887,8 +8887,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8897,24 +8897,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8933,8 +8933,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8943,24 +8943,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -8977,8 +8977,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -8987,24 +8987,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9022,8 +9022,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9032,24 +9032,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9067,8 +9067,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9077,24 +9077,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9111,8 +9111,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9121,24 +9121,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9155,8 +9155,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9165,24 +9165,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9199,8 +9199,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9209,24 +9209,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9244,8 +9244,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9254,24 +9254,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9288,8 +9288,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9298,24 +9298,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9339,8 +9339,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9349,24 +9349,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9384,8 +9384,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9394,24 +9394,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9429,8 +9429,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9439,24 +9439,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9475,8 +9475,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9485,24 +9485,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9520,8 +9520,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9530,24 +9530,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9567,8 +9567,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9577,24 +9577,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9612,8 +9612,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9622,24 +9622,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9656,8 +9656,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9666,24 +9666,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -9702,8 +9702,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDUNILVR); quarterly shareholding filed publicly.",
    "company_notes": "",
-   "indian_pct": 28.6,
-   "foreign_pct": 71.4,
+   "indian_pct": 28.8,
+   "foreign_pct": 71.2,
    "breakdown": [
     {
      "holder": "Unilever PLC (promoter)",
@@ -9712,24 +9712,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.5,
+     "pct": 9.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.0,
+     "pct": 17.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.6,
+     "pct": 11.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -10154,8 +10154,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BRITANNIA).",
    "company_notes": "",
-   "indian_pct": 86.6,
-   "foreign_pct": 13.4,
+   "indian_pct": 87.1,
+   "foreign_pct": 12.9,
    "breakdown": [
     {
      "holder": "Wadia Group promoters (via UK entity)",
@@ -10164,24 +10164,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.4,
+     "pct": 12.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.9,
+     "pct": 21.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.1,
+     "pct": 15.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ],
    "override_note": "The promoter stake is held through UK-incorporated Associated Biscuits International but is controlled by the Indian Wadia group, so it is counted as Indian here. The exchange filing itself tags it as foreign."
   },
@@ -10201,8 +10201,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BRITANNIA).",
    "company_notes": "",
-   "indian_pct": 86.6,
-   "foreign_pct": 13.4,
+   "indian_pct": 87.1,
+   "foreign_pct": 12.9,
    "breakdown": [
     {
      "holder": "Wadia Group promoters (via UK entity)",
@@ -10211,24 +10211,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.4,
+     "pct": 12.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.9,
+     "pct": 21.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.1,
+     "pct": 15.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ],
    "override_note": "The promoter stake is held through UK-incorporated Associated Biscuits International but is controlled by the Indian Wadia group, so it is counted as Indian here. The exchange filing itself tags it as foreign."
   },
@@ -10247,8 +10247,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BRITANNIA).",
    "company_notes": "",
-   "indian_pct": 86.6,
-   "foreign_pct": 13.4,
+   "indian_pct": 87.1,
+   "foreign_pct": 12.9,
    "breakdown": [
     {
      "holder": "Wadia Group promoters (via UK entity)",
@@ -10257,24 +10257,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.4,
+     "pct": 12.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.9,
+     "pct": 21.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.1,
+     "pct": 15.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ],
    "override_note": "The promoter stake is held through UK-incorporated Associated Biscuits International but is controlled by the Indian Wadia group, so it is counted as Indian here. The exchange filing itself tags it as foreign."
   },
@@ -10293,8 +10293,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BRITANNIA).",
    "company_notes": "",
-   "indian_pct": 86.6,
-   "foreign_pct": 13.4,
+   "indian_pct": 87.1,
+   "foreign_pct": 12.9,
    "breakdown": [
     {
      "holder": "Wadia Group promoters (via UK entity)",
@@ -10303,24 +10303,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.4,
+     "pct": 12.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.9,
+     "pct": 21.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.1,
+     "pct": 15.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ],
    "override_note": "The promoter stake is held through UK-incorporated Associated Biscuits International but is controlled by the Indian Wadia group, so it is counted as Indian here. The exchange filing itself tags it as foreign."
   },
@@ -10339,8 +10339,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BRITANNIA).",
    "company_notes": "",
-   "indian_pct": 86.6,
-   "foreign_pct": 13.4,
+   "indian_pct": 87.1,
+   "foreign_pct": 12.9,
    "breakdown": [
     {
      "holder": "Wadia Group promoters (via UK entity)",
@@ -10349,24 +10349,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.4,
+     "pct": 12.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.9,
+     "pct": 21.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.1,
+     "pct": 15.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ],
    "override_note": "The promoter stake is held through UK-incorporated Associated Biscuits International but is controlled by the Indian Wadia group, so it is counted as Indian here. The exchange filing itself tags it as foreign."
   },
@@ -10385,8 +10385,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BRITANNIA).",
    "company_notes": "",
-   "indian_pct": 86.6,
-   "foreign_pct": 13.4,
+   "indian_pct": 87.1,
+   "foreign_pct": 12.9,
    "breakdown": [
     {
      "holder": "Wadia Group promoters (via UK entity)",
@@ -10395,24 +10395,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.4,
+     "pct": 12.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.9,
+     "pct": 21.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.1,
+     "pct": 15.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ],
    "override_note": "The promoter stake is held through UK-incorporated Associated Biscuits International but is controlled by the Indian Wadia group, so it is counted as Indian here. The exchange filing itself tags it as foreign."
   },
@@ -11283,34 +11283,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (MARICO).",
    "company_notes": "",
-   "indian_pct": 76.6,
-   "foreign_pct": 23.4,
+   "indian_pct": 77.7,
+   "foreign_pct": 22.3,
    "breakdown": [
     {
      "holder": "Mariwala family promoters",
-     "pct": 58.9,
+     "pct": 58.8,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 23.4,
+     "pct": 22.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 13.0,
+     "pct": 14.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 4.7,
+     "pct": 4.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -11329,34 +11329,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (MARICO).",
    "company_notes": "",
-   "indian_pct": 76.6,
-   "foreign_pct": 23.4,
+   "indian_pct": 77.7,
+   "foreign_pct": 22.3,
    "breakdown": [
     {
      "holder": "Mariwala family promoters",
-     "pct": 58.9,
+     "pct": 58.8,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 23.4,
+     "pct": 22.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 13.0,
+     "pct": 14.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 4.7,
+     "pct": 4.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -11374,34 +11374,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (MARICO).",
    "company_notes": "",
-   "indian_pct": 76.6,
-   "foreign_pct": 23.4,
+   "indian_pct": 77.7,
+   "foreign_pct": 22.3,
    "breakdown": [
     {
      "holder": "Mariwala family promoters",
-     "pct": 58.9,
+     "pct": 58.8,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 23.4,
+     "pct": 22.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 13.0,
+     "pct": 14.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 4.7,
+     "pct": 4.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -11418,34 +11418,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (MARICO).",
    "company_notes": "",
-   "indian_pct": 76.6,
-   "foreign_pct": 23.4,
+   "indian_pct": 77.7,
+   "foreign_pct": 22.3,
    "breakdown": [
     {
      "holder": "Mariwala family promoters",
-     "pct": 58.9,
+     "pct": 58.8,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 23.4,
+     "pct": 22.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 13.0,
+     "pct": 14.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 4.7,
+     "pct": 4.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -11463,34 +11463,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (MARICO).",
    "company_notes": "",
-   "indian_pct": 76.6,
-   "foreign_pct": 23.4,
+   "indian_pct": 77.7,
+   "foreign_pct": 22.3,
    "breakdown": [
     {
      "holder": "Mariwala family promoters",
-     "pct": 58.9,
+     "pct": 58.8,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 23.4,
+     "pct": 22.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 13.0,
+     "pct": 14.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 4.7,
+     "pct": 4.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -11508,8 +11508,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (GODREJCP).",
    "company_notes": "",
-   "indian_pct": 87.5,
-   "foreign_pct": 12.5,
+   "indian_pct": 88.8,
+   "foreign_pct": 11.2,
    "breakdown": [
     {
      "holder": "Godrej family promoters",
@@ -11523,24 +11523,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.3,
+     "pct": 11.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 19.6,
+     "pct": 20.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.0,
+     "pct": 15.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -11558,8 +11558,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (GODREJCP).",
    "company_notes": "",
-   "indian_pct": 87.5,
-   "foreign_pct": 12.5,
+   "indian_pct": 88.8,
+   "foreign_pct": 11.2,
    "breakdown": [
     {
      "holder": "Godrej family promoters",
@@ -11573,24 +11573,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.3,
+     "pct": 11.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 19.6,
+     "pct": 20.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.0,
+     "pct": 15.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -11609,8 +11609,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (GODREJCP).",
    "company_notes": "",
-   "indian_pct": 87.5,
-   "foreign_pct": 12.5,
+   "indian_pct": 88.8,
+   "foreign_pct": 11.2,
    "breakdown": [
     {
      "holder": "Godrej family promoters",
@@ -11624,24 +11624,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.3,
+     "pct": 11.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 19.6,
+     "pct": 20.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.0,
+     "pct": 15.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -11659,8 +11659,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (GODREJCP).",
    "company_notes": "",
-   "indian_pct": 87.5,
-   "foreign_pct": 12.5,
+   "indian_pct": 88.8,
+   "foreign_pct": 11.2,
    "breakdown": [
     {
      "holder": "Godrej family promoters",
@@ -11674,24 +11674,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.3,
+     "pct": 11.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 19.6,
+     "pct": 20.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.0,
+     "pct": 15.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -11709,8 +11709,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (GODREJCP).",
    "company_notes": "",
-   "indian_pct": 87.5,
-   "foreign_pct": 12.5,
+   "indian_pct": 88.8,
+   "foreign_pct": 11.2,
    "breakdown": [
     {
      "holder": "Godrej family promoters",
@@ -11724,24 +11724,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.3,
+     "pct": 11.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 19.6,
+     "pct": 20.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.0,
+     "pct": 15.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -11759,8 +11759,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (GODREJCP).",
    "company_notes": "",
-   "indian_pct": 87.5,
-   "foreign_pct": 12.5,
+   "indian_pct": 88.8,
+   "foreign_pct": 11.2,
    "breakdown": [
     {
      "holder": "Godrej family promoters",
@@ -11774,24 +11774,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.3,
+     "pct": 11.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 19.6,
+     "pct": 20.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.0,
+     "pct": 15.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -12052,8 +12052,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (GILLETTE).",
    "company_notes": "",
-   "indian_pct": 54.3,
-   "foreign_pct": 45.7,
+   "indian_pct": 54.6,
+   "foreign_pct": 45.4,
    "breakdown": [
     {
      "holder": "Indian promoters",
@@ -12067,7 +12067,7 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 5.6,
+     "pct": 5.3,
      "origin": "foreign"
     },
     {
@@ -12077,14 +12077,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.6,
+     "pct": 10.9,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -12101,8 +12101,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (GILLETTE).",
    "company_notes": "",
-   "indian_pct": 54.3,
-   "foreign_pct": 45.7,
+   "indian_pct": 54.6,
+   "foreign_pct": 45.4,
    "breakdown": [
     {
      "holder": "Indian promoters",
@@ -12116,7 +12116,7 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 5.6,
+     "pct": 5.3,
      "origin": "foreign"
     },
     {
@@ -12126,14 +12126,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.6,
+     "pct": 10.9,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -12719,8 +12719,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (TATACONSUM).",
    "company_notes": "",
-   "indian_pct": 79.2,
-   "foreign_pct": 20.8,
+   "indian_pct": 79.5,
+   "foreign_pct": 20.5,
    "breakdown": [
     {
      "holder": "Tata group promoters",
@@ -12729,12 +12729,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.8,
+     "pct": 20.5,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.0,
+     "pct": 25.3,
      "origin": "indian"
     },
     {
@@ -12743,10 +12743,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -12765,8 +12765,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (TATACONSUM).",
    "company_notes": "",
-   "indian_pct": 79.2,
-   "foreign_pct": 20.8,
+   "indian_pct": 79.5,
+   "foreign_pct": 20.5,
    "breakdown": [
     {
      "holder": "Tata group promoters",
@@ -12775,12 +12775,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.8,
+     "pct": 20.5,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.0,
+     "pct": 25.3,
      "origin": "indian"
     },
     {
@@ -12789,10 +12789,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -12809,8 +12809,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (TATACONSUM).",
    "company_notes": "",
-   "indian_pct": 79.2,
-   "foreign_pct": 20.8,
+   "indian_pct": 79.5,
+   "foreign_pct": 20.5,
    "breakdown": [
     {
      "holder": "Tata group promoters",
@@ -12819,12 +12819,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.8,
+     "pct": 20.5,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.0,
+     "pct": 25.3,
      "origin": "indian"
     },
     {
@@ -12833,10 +12833,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -12854,8 +12854,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (TATACONSUM).",
    "company_notes": "",
-   "indian_pct": 79.2,
-   "foreign_pct": 20.8,
+   "indian_pct": 79.5,
+   "foreign_pct": 20.5,
    "breakdown": [
     {
      "holder": "Tata group promoters",
@@ -12864,12 +12864,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.8,
+     "pct": 20.5,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.0,
+     "pct": 25.3,
      "origin": "indian"
     },
     {
@@ -12878,10 +12878,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -12898,8 +12898,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (TATACONSUM).",
    "company_notes": "",
-   "indian_pct": 79.2,
-   "foreign_pct": 20.8,
+   "indian_pct": 79.5,
+   "foreign_pct": 20.5,
    "breakdown": [
     {
      "holder": "Tata group promoters",
@@ -12908,12 +12908,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.8,
+     "pct": 20.5,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.0,
+     "pct": 25.3,
      "origin": "indian"
     },
     {
@@ -12922,10 +12922,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -13592,8 +13592,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ASIANPAINT).",
    "company_notes": "",
-   "indian_pct": 86.2,
-   "foreign_pct": 13.8,
+   "indian_pct": 85.7,
+   "foreign_pct": 14.3,
    "breakdown": [
     {
      "holder": "Founding-family promoters",
@@ -13607,24 +13607,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.3,
+     "pct": 13.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.8,
+     "pct": 20.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 13.3,
+     "pct": 13.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -13688,8 +13688,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BATAINDIA).",
    "company_notes": "",
-   "indian_pct": 43.5,
-   "foreign_pct": 56.5,
+   "indian_pct": 44.1,
+   "foreign_pct": 55.9,
    "breakdown": [
     {
      "holder": "Bata (BN) B.V. (promoter)",
@@ -13698,24 +13698,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 6.4,
+     "pct": 5.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 27.2,
+     "pct": 26.2,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 16.2,
+     "pct": 17.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -13733,8 +13733,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BATAINDIA).",
    "company_notes": "",
-   "indian_pct": 43.5,
-   "foreign_pct": 56.5,
+   "indian_pct": 44.1,
+   "foreign_pct": 55.9,
    "breakdown": [
     {
      "holder": "Bata (BN) B.V. (promoter)",
@@ -13743,24 +13743,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 6.4,
+     "pct": 5.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 27.2,
+     "pct": 26.2,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 16.2,
+     "pct": 17.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -13779,8 +13779,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RELAXO).",
    "company_notes": "",
-   "indian_pct": 96.9,
-   "foreign_pct": 3.1,
+   "indian_pct": 97.0,
+   "foreign_pct": 3.0,
    "breakdown": [
     {
      "holder": "Dua family promoters",
@@ -13789,24 +13789,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 3.1,
+     "pct": 3.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 9.7,
+     "pct": 9.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.9,
+     "pct": 16.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -13824,8 +13824,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RELAXO).",
    "company_notes": "",
-   "indian_pct": 96.9,
-   "foreign_pct": 3.1,
+   "indian_pct": 97.0,
+   "foreign_pct": 3.0,
    "breakdown": [
     {
      "holder": "Dua family promoters",
@@ -13834,24 +13834,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 3.1,
+     "pct": 3.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 9.7,
+     "pct": 9.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.9,
+     "pct": 16.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -13869,8 +13869,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RELAXO).",
    "company_notes": "",
-   "indian_pct": 96.9,
-   "foreign_pct": 3.1,
+   "indian_pct": 97.0,
+   "foreign_pct": 3.0,
    "breakdown": [
     {
      "holder": "Dua family promoters",
@@ -13879,24 +13879,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 3.1,
+     "pct": 3.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 9.7,
+     "pct": 9.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.9,
+     "pct": 16.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -14186,34 +14186,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (MARUTI).",
    "company_notes": "",
-   "indian_pct": 28.5,
-   "foreign_pct": 71.5,
+   "indian_pct": 28.9,
+   "foreign_pct": 71.1,
    "breakdown": [
     {
      "holder": "Suzuki Motor Corp (promoter)",
-     "pct": 58.6,
+     "pct": 58.7,
      "origin": "foreign"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.8,
+     "pct": 12.4,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.2,
+     "pct": 25.4,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 3.4,
+     "pct": 3.5,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -14234,8 +14234,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (TMPV) after the 2025 demerger; the commercial-vehicle arm (TMCV) is also Tata-promoted.",
    "company_notes": "",
-   "indian_pct": 82.8,
-   "foreign_pct": 17.2,
+   "indian_pct": 84.6,
+   "foreign_pct": 15.4,
    "breakdown": [
     {
      "holder": "Tata group promoters",
@@ -14244,12 +14244,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.2,
+     "pct": 15.4,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 17.2,
+     "pct": 17.9,
      "origin": "indian"
     },
     {
@@ -14259,14 +14259,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 23.0,
+     "pct": 24.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -14346,8 +14346,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HEROMOTOCO).",
    "company_notes": "",
-   "indian_pct": 68.9,
-   "foreign_pct": 31.1,
+   "indian_pct": 67.8,
+   "foreign_pct": 32.2,
    "breakdown": [
     {
      "holder": "Munjal family promoters",
@@ -14356,24 +14356,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 31.1,
+     "pct": 32.2,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 24.4,
+     "pct": 23.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 9.8,
+     "pct": 9.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -14544,39 +14544,39 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (MRF).",
    "company_notes": "",
-   "indian_pct": 81.4,
-   "foreign_pct": 18.6,
+   "indian_pct": 81.8,
+   "foreign_pct": 18.2,
    "breakdown": [
     {
      "holder": "Mammen family promoters",
-     "pct": 26.6,
+     "pct": 26.5,
      "origin": "indian"
     },
     {
      "holder": "Mammen family (promoter)",
-     "pct": 1.2,
+     "pct": 1.1,
      "origin": "foreign"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.4,
+     "pct": 17.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 12.1,
+     "pct": 12.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 42.7,
+     "pct": 42.6,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -14700,19 +14700,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 39.1,
+     "pct": 38.5,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 13.7,
+     "pct": 14.3,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -14782,8 +14782,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (WHIRLPOOL). Whirlpool Corp has been trimming its stake in recent years.",
    "company_notes": "",
-   "indian_pct": 47.8,
-   "foreign_pct": 52.2,
+   "indian_pct": 47.7,
+   "foreign_pct": 52.3,
    "breakdown": [
     {
      "holder": "Whirlpool Corp (promoter)",
@@ -14797,19 +14797,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 34.2,
+     "pct": 32.4,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 13.5,
+     "pct": 15.3,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -14920,8 +14920,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BAJAJELEC).",
    "company_notes": "",
-   "indian_pct": 94.5,
-   "foreign_pct": 5.5,
+   "indian_pct": 94.6,
+   "foreign_pct": 5.4,
    "breakdown": [
     {
      "holder": "Bajaj family promoters",
@@ -14940,19 +14940,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 16.8,
+     "pct": 16.0,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.1,
+     "pct": 15.9,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -14971,29 +14971,29 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (CROMPTON); no promoter, largely institution-owned.",
    "company_notes": "",
-   "indian_pct": 80.1,
-   "foreign_pct": 19.9,
+   "indian_pct": 80.8,
+   "foreign_pct": 19.2,
    "breakdown": [
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 19.9,
+     "pct": 19.2,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 66.5,
+     "pct": 65.8,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 13.6,
+     "pct": 15.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -15382,8 +15382,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (PAGEIND); exclusive Indian licensee of Jockey (USA).",
    "company_notes": "",
-   "indian_pct": 38.2,
-   "foreign_pct": 61.8,
+   "indian_pct": 38.3,
+   "foreign_pct": 61.7,
    "breakdown": [
     {
      "holder": "Genomal family (promoter)",
@@ -15392,24 +15392,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 18.9,
+     "pct": 18.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 33.6,
+     "pct": 32.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 4.6,
+     "pct": 5.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -15649,19 +15649,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 34.6,
+     "pct": 34.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 16.0,
+     "pct": 15.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -15818,8 +15818,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HONASA).",
    "company_notes": "",
-   "indian_pct": 67.2,
-   "foreign_pct": 32.8,
+   "indian_pct": 70.3,
+   "foreign_pct": 29.7,
    "breakdown": [
     {
      "holder": "Alagh family promoters",
@@ -15828,24 +15828,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 32.8,
+     "pct": 29.7,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 21.6,
+     "pct": 23.4,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.1,
+     "pct": 11.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -15863,8 +15863,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HONASA).",
    "company_notes": "",
-   "indian_pct": 67.2,
-   "foreign_pct": 32.8,
+   "indian_pct": 70.3,
+   "foreign_pct": 29.7,
    "breakdown": [
     {
      "holder": "Alagh family promoters",
@@ -15873,24 +15873,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 32.8,
+     "pct": 29.7,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 21.6,
+     "pct": 23.4,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.1,
+     "pct": 11.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -18925,22 +18925,22 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RELIANCE).",
    "company_notes": "",
-   "indian_pct": 82.8,
-   "foreign_pct": 17.2,
+   "indian_pct": 83.3,
+   "foreign_pct": 16.7,
    "breakdown": [
     {
      "holder": "Ambani family promoters",
-     "pct": 50.5,
+     "pct": 50.4,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.2,
+     "pct": 16.7,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 21.2,
+     "pct": 21.7,
      "origin": "indian"
     },
     {
@@ -18950,14 +18950,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.0,
+     "pct": 11.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -18975,22 +18975,22 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RELIANCE).",
    "company_notes": "",
-   "indian_pct": 82.8,
-   "foreign_pct": 17.2,
+   "indian_pct": 83.3,
+   "foreign_pct": 16.7,
    "breakdown": [
     {
      "holder": "Ambani family promoters",
-     "pct": 50.5,
+     "pct": 50.4,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.2,
+     "pct": 16.7,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 21.2,
+     "pct": 21.7,
      "origin": "indian"
     },
     {
@@ -19000,14 +19000,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.0,
+     "pct": 11.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -19027,22 +19027,22 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RELIANCE).",
    "company_notes": "",
-   "indian_pct": 82.8,
-   "foreign_pct": 17.2,
+   "indian_pct": 83.3,
+   "foreign_pct": 16.7,
    "breakdown": [
     {
      "holder": "Ambani family promoters",
-     "pct": 50.5,
+     "pct": 50.4,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.2,
+     "pct": 16.7,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 21.2,
+     "pct": 21.7,
      "origin": "indian"
     },
     {
@@ -19052,14 +19052,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.0,
+     "pct": 11.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -19078,22 +19078,22 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RELIANCE).",
    "company_notes": "",
-   "indian_pct": 82.8,
-   "foreign_pct": 17.2,
+   "indian_pct": 83.3,
+   "foreign_pct": 16.7,
    "breakdown": [
     {
      "holder": "Ambani family promoters",
-     "pct": 50.5,
+     "pct": 50.4,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.2,
+     "pct": 16.7,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 21.2,
+     "pct": 21.7,
      "origin": "indian"
     },
     {
@@ -19103,14 +19103,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.0,
+     "pct": 11.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -19129,8 +19129,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BHARTIARTL); Singapore's Singtel holds a large chunk inside the promoter group, which the filing tags as foreign.",
    "company_notes": "",
-   "indian_pct": 62.9,
-   "foreign_pct": 37.1,
+   "indian_pct": 64.0,
+   "foreign_pct": 36.0,
    "breakdown": [
     {
      "holder": "Indian promoters",
@@ -19144,24 +19144,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 26.5,
+     "pct": 25.5,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.8,
+     "pct": 21.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 2.6,
+     "pct": 2.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -19181,8 +19181,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (IDEA). After dues-to-equity conversion the Government of India is the single largest shareholder.",
    "company_notes": "",
-   "indian_pct": 74.8,
-   "foreign_pct": 25.2,
+   "indian_pct": 75.2,
+   "foreign_pct": 24.8,
    "breakdown": [
     {
      "holder": "Indian promoters",
@@ -19196,12 +19196,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 6.2,
+     "pct": 5.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 6.1,
+     "pct": 6.6,
      "origin": "indian"
     },
     {
@@ -19211,14 +19211,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 13.1,
+     "pct": 13.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -19237,8 +19237,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (DMART).",
    "company_notes": "",
-   "indian_pct": 90.8,
-   "foreign_pct": 9.2,
+   "indian_pct": 91.5,
+   "foreign_pct": 8.5,
    "breakdown": [
     {
      "holder": "Damani family promoters",
@@ -19247,12 +19247,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.2,
+     "pct": 8.5,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 8.7,
+     "pct": 9.4,
      "origin": "indian"
     },
     {
@@ -19261,10 +19261,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -19369,8 +19369,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (NYKAA).",
    "company_notes": "",
-   "indian_pct": 86.2,
-   "foreign_pct": 13.8,
+   "indian_pct": 84.4,
+   "foreign_pct": 15.6,
    "breakdown": [
     {
      "holder": "Nayar family promoters",
@@ -19379,24 +19379,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.8,
+     "pct": 15.6,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 24.1,
+     "pct": 22.4,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.0,
+     "pct": 9.9,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -19621,8 +19621,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (DEVYANI).",
    "company_notes": "",
-   "indian_pct": 90.2,
-   "foreign_pct": 9.8,
+   "indian_pct": 90.9,
+   "foreign_pct": 9.1,
    "breakdown": [
     {
      "holder": "Jaipuria family promoters",
@@ -19631,24 +19631,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.8,
+     "pct": 9.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 18.8,
+     "pct": 20.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.0,
+     "pct": 8.6,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -19665,8 +19665,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (DEVYANI).",
    "company_notes": "",
-   "indian_pct": 90.2,
-   "foreign_pct": 9.8,
+   "indian_pct": 90.9,
+   "foreign_pct": 9.1,
    "breakdown": [
     {
      "holder": "Jaipuria family promoters",
@@ -19675,24 +19675,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 9.8,
+     "pct": 9.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 18.8,
+     "pct": 20.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.0,
+     "pct": 8.6,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -19843,8 +19843,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BECTORFOOD).",
    "company_notes": "",
-   "indian_pct": 91.9,
-   "foreign_pct": 8.1,
+   "indian_pct": 94.0,
+   "foreign_pct": 6.0,
    "breakdown": [
     {
      "holder": "Bector family promoters",
@@ -19853,24 +19853,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 8.1,
+     "pct": 6.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 26.0,
+     "pct": 25.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 16.9,
+     "pct": 19.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -19887,8 +19887,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (BECTORFOOD).",
    "company_notes": "",
-   "indian_pct": 91.9,
-   "foreign_pct": 8.1,
+   "indian_pct": 94.0,
+   "foreign_pct": 6.0,
    "breakdown": [
     {
      "holder": "Bector family promoters",
@@ -19897,24 +19897,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 8.1,
+     "pct": 6.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 26.0,
+     "pct": 25.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 16.9,
+     "pct": 19.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -20247,8 +20247,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ASHOKLEY). Hinduja promoter entities are UK-based but the group is Indian-origin; the filing's own tagging is used here.",
    "company_notes": "",
-   "indian_pct": 27.8,
-   "foreign_pct": 72.2,
+   "indian_pct": 28.6,
+   "foreign_pct": 71.4,
    "breakdown": [
     {
      "holder": "Hinduja Group (promoter)",
@@ -20257,12 +20257,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.7,
+     "pct": 19.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 15.8,
+     "pct": 16.6,
      "origin": "indian"
     },
     {
@@ -20276,10 +20276,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -20313,19 +20313,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 12.2,
+     "pct": 11.8,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 37.0,
+     "pct": 37.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -20434,8 +20434,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (APOLLOTYRE).",
    "company_notes": "",
-   "indian_pct": 79.6,
-   "foreign_pct": 20.4,
+   "indian_pct": 83.8,
+   "foreign_pct": 16.2,
    "breakdown": [
     {
      "holder": "Kanwar family promoters",
@@ -20449,12 +20449,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.0,
+     "pct": 15.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 29.0,
+     "pct": 33.3,
      "origin": "indian"
     },
     {
@@ -20464,14 +20464,14 @@
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 12.5,
+     "pct": 12.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -20489,8 +20489,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (JKTYRE).",
    "company_notes": "",
-   "indian_pct": 81.9,
-   "foreign_pct": 18.1,
+   "indian_pct": 83.0,
+   "foreign_pct": 17.0,
    "breakdown": [
     {
      "holder": "Singhania family promoters",
@@ -20504,24 +20504,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 15.8,
+     "pct": 14.6,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 7.3,
+     "pct": 8.3,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 25.2,
+     "pct": 25.4,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -20719,7 +20719,7 @@
    "breakdown": [
     {
      "holder": "Jalan family promoters",
-     "pct": 53.9,
+     "pct": 53.8,
      "origin": "indian"
     },
     {
@@ -20729,19 +20729,19 @@
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.2,
+     "pct": 24.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 15.2,
+     "pct": 15.6,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -20892,8 +20892,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ASTRAL).",
    "company_notes": "",
-   "indian_pct": 86.1,
-   "foreign_pct": 13.9,
+   "indian_pct": 88.9,
+   "foreign_pct": 11.1,
    "breakdown": [
     {
      "holder": "Engineer family promoters",
@@ -20902,12 +20902,12 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.9,
+     "pct": 11.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 21.3,
+     "pct": 24.1,
      "origin": "indian"
     },
     {
@@ -20916,10 +20916,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -20938,8 +20938,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (SUPREMEIND).",
    "company_notes": "",
-   "indian_pct": 82.9,
-   "foreign_pct": 17.1,
+   "indian_pct": 83.4,
+   "foreign_pct": 16.6,
    "breakdown": [
     {
      "holder": "Taparia family promoters",
@@ -20948,24 +20948,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 17.1,
+     "pct": 16.6,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 19.1,
+     "pct": 19.7,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 14.8,
+     "pct": 14.7,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -21074,34 +21074,34 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (POLYCAB).",
    "company_notes": "",
-   "indian_pct": 81.0,
-   "foreign_pct": 19.0,
+   "indian_pct": 81.9,
+   "foreign_pct": 18.1,
    "breakdown": [
     {
      "holder": "Jaisinghani family promoters",
-     "pct": 61.5,
+     "pct": 61.4,
      "origin": "indian"
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 19.0,
+     "pct": 18.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 7.6,
+     "pct": 7.9,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 11.9,
+     "pct": 12.6,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -21677,8 +21677,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ABLBL) after the 2025 ABFRL demerger.",
    "company_notes": "",
-   "indian_pct": 87.3,
-   "foreign_pct": 12.7,
+   "indian_pct": 87.7,
+   "foreign_pct": 12.3,
    "breakdown": [
     {
      "holder": "Birla group promoters",
@@ -21687,24 +21687,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.7,
+     "pct": 12.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.8,
+     "pct": 21.0,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 19.9,
+     "pct": 20.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -21721,8 +21721,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ABLBL) after the 2025 ABFRL demerger.",
    "company_notes": "",
-   "indian_pct": 87.3,
-   "foreign_pct": 12.7,
+   "indian_pct": 87.7,
+   "foreign_pct": 12.3,
    "breakdown": [
     {
      "holder": "Birla group promoters",
@@ -21731,24 +21731,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.7,
+     "pct": 12.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.8,
+     "pct": 21.0,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 19.9,
+     "pct": 20.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -21765,8 +21765,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ABLBL) after the 2025 ABFRL demerger.",
    "company_notes": "",
-   "indian_pct": 87.3,
-   "foreign_pct": 12.7,
+   "indian_pct": 87.7,
+   "foreign_pct": 12.3,
    "breakdown": [
     {
      "holder": "Birla group promoters",
@@ -21775,24 +21775,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.7,
+     "pct": 12.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.8,
+     "pct": 21.0,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 19.9,
+     "pct": 20.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -21809,8 +21809,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (ABLBL) after the 2025 ABFRL demerger.",
    "company_notes": "",
-   "indian_pct": 87.3,
-   "foreign_pct": 12.7,
+   "indian_pct": 87.7,
+   "foreign_pct": 12.3,
    "breakdown": [
     {
      "holder": "Birla group promoters",
@@ -21819,24 +21819,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 12.7,
+     "pct": 12.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 20.8,
+     "pct": 21.0,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 19.9,
+     "pct": 20.1,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -21943,8 +21943,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RAYMONDLSL) after the 2024 demerger.",
    "company_notes": "",
-   "indian_pct": 92.7,
-   "foreign_pct": 7.3,
+   "indian_pct": 93.0,
+   "foreign_pct": 7.0,
    "breakdown": [
     {
      "holder": "Singhania family promoters",
@@ -21953,24 +21953,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 7.3,
+     "pct": 7.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 5.7,
+     "pct": 4.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 27.4,
+     "pct": 28.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -21987,8 +21987,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (RAYMONDLSL) after the 2024 demerger.",
    "company_notes": "",
-   "indian_pct": 92.7,
-   "foreign_pct": 7.3,
+   "indian_pct": 93.0,
+   "foreign_pct": 7.0,
    "breakdown": [
     {
      "holder": "Singhania family promoters",
@@ -21997,24 +21997,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 7.3,
+     "pct": 7.0,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 5.7,
+     "pct": 4.6,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 27.4,
+     "pct": 28.8,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -22213,8 +22213,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (CAMPUS).",
    "company_notes": "",
-   "indian_pct": 94.0,
-   "foreign_pct": 6.0,
+   "indian_pct": 94.2,
+   "foreign_pct": 5.8,
    "breakdown": [
     {
      "holder": "Aggarwal family promoters",
@@ -22223,24 +22223,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 6.0,
+     "pct": 5.8,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 11.4,
+     "pct": 10.8,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 10.5,
+     "pct": 11.3,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -22590,8 +22590,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (INDIGO).",
    "company_notes": "",
-   "indian_pct": 73.8,
-   "foreign_pct": 26.2,
+   "indian_pct": 74.3,
+   "foreign_pct": 25.7,
    "breakdown": [
     {
      "holder": "InterGlobe promoters",
@@ -22605,24 +22605,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 20.3,
+     "pct": 19.9,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 31.9,
+     "pct": 33.3,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 6.2,
+     "pct": 5.2,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -22882,8 +22882,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (HINDPETRO); state-controlled via ONGC.",
    "company_notes": "",
-   "indian_pct": 86.4,
-   "foreign_pct": 13.6,
+   "indian_pct": 86.9,
+   "foreign_pct": 13.1,
    "breakdown": [
     {
      "holder": "ONGC (state promoter)",
@@ -22892,24 +22892,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 13.6,
+     "pct": 13.1,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 22.8,
+     "pct": 22.1,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 8.7,
+     "pct": 9.9,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -23112,8 +23112,8 @@
    "listed": true,
    "listing_note": "Listed on NSE/BSE (DOMS); Italy's FILA is the largest promoter alongside the Indian founders.",
    "company_notes": "",
-   "indian_pct": 73.5,
-   "foreign_pct": 26.5,
+   "indian_pct": 73.7,
+   "foreign_pct": 26.3,
    "breakdown": [
     {
      "holder": "Indian promoters",
@@ -23127,24 +23127,24 @@
     },
     {
      "holder": "FII / FPI & foreign institutions",
-     "pct": 7.5,
+     "pct": 7.3,
      "origin": "foreign"
     },
     {
      "holder": "DII (mutual funds, insurers, banks)",
-     "pct": 25.9,
+     "pct": 26.3,
      "origin": "indian"
     },
     {
      "holder": "Indian public & others (incl. NRIs)",
-     "pct": 3.2,
+     "pct": 3.0,
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
@@ -23187,10 +23187,10 @@
      "origin": "indian"
     }
    ],
-   "as_of": "quarter ended 30-Jun-2026",
+   "as_of": "quarter ended 30-Sep-2026",
    "confidence": "high",
    "sources": [
-    "NSE shareholding pattern (quarter ended 30-Jun-2026)"
+    "NSE shareholding pattern (quarter ended 30-Sep-2026)"
    ]
   },
   {
